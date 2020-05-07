@@ -1,0 +1,28 @@
+#social-media-icons {
+    display: inline;
+}
+
+header {
+    text-align: center;
+    border: 10px solid ivory;
+    margin: 50px;
+}
+
+body {
+    text-align: center;
+    background-color: lightsteelblue;
+    }
+
+#bio-image {
+    block-size: 300px;
+    border-radius: 40%;
+    
+}
+
+p {border: 10px solid ivory;
+    padding: 20px;
+    font-size: 18px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
